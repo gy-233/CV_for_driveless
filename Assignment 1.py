@@ -62,5 +62,5 @@ def apply_image_processing_operations(image_path):
     plt.show()
 
 
-    image_path = "C:/Users/asus/OneDrive - Indian Institute of Technology Bombay/Desktop/IIT B/Semester-4/Summer Projects/Cv for Dv/Git/CV_for_driveless/Image 1.jpg"  
+    image_path = "Image 1.jpg" 
     apply_image_processing_operations(image_path)
