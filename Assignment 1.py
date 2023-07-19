@@ -61,6 +61,6 @@ def apply_image_processing_operations(image_path):
     plt.tight_layout()
     plt.show()
 
-if __name__ == '__main__':
+
     image_path = r"C:/Users/asus/OneDrive - Indian Institute of Technology Bombay/Desktop/IIT B/Semester-4/Summer Projects/Cv for Dv/Git/CV_for_driveless/Screenshot_20220124-020132_Samsung Notes.jpg"  # Replace with the path to your input image in Google Drive
     apply_image_processing_operations(image_path)
